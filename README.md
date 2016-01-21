@@ -26,5 +26,8 @@ Please complement the tools you guys has been used and you think we can use it i
 - Baidu
 - 高德?
 
+#Fancy Features
+- Drop down list on navigation bar
+  - https://github.com/PhamBaTho/BTNavigationDropdownMenu 
 
 
