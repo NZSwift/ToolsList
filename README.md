@@ -29,5 +29,11 @@ Please complement the tools you guys has been used and you think we can use it i
 #Fancy Features
 - Drop down list on navigation bar
   - https://github.com/PhamBaTho/BTNavigationDropdownMenu 
+- DKDropMenu
+  - https://github.com/davecom/DKDropMenu
+- KDropDownMultipleSelection
+  - https://github.com/kiran5232/KDropDownMultipleSelection
+- Real-Time seach (KSTokenView)
+  - https://github.com/khawars/KSTokenView
 
 
