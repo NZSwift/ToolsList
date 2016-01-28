@@ -37,6 +37,7 @@ Please complement the tools you guys has been used and you think we can use it i
   - https://github.com/khawars/KSTokenView
 - Graphic Chart
   - https://github.com/danielgindi/ios-charts
-
+- IQKeyboardManager
+  - https://github.com/hackiftekhar/IQKeyboardManager
 - AZDropdownMenu
   - https://cocoapods.org/pods/AZDropdownMenu
