@@ -64,3 +64,6 @@ Please complement the tools you guys has been used and you think we can use it i
 - SwiftyDrop
   - https://github.com/morizotter/SwiftyDrop
 
+- Linear Progress Bar
+  - https://github.com/gordoneliel/LinearProgressBar
+  - ![](https://github.com/gordoneliel/LinearProgressBar/blob/develop/Promotional_images/Hero3.png)
