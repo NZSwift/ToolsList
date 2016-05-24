@@ -8,6 +8,11 @@ Please complement the tools you guys has been used and you think we can use it i
 - Bmob
 - CouldKit(Apple)
 
+#Design Tools
+Color design
+- http://paletton.com/
+Color finder
+- http://www.color-hex.com/
 
 #Network transmission 
 - Alamofire
